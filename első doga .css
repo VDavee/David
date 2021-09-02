@@ -1,0 +1,58 @@
+h1{
+    color: aqua;
+    font-size: 50px;
+    text-align: center;
+}
+h2{
+    color: aqua;
+    font-size: 40px;
+    text-align: center;
+}
+body{
+    background-color: bisque;
+    
+}
+#főkép{
+    width: 800px;
+    
+}
+
+h3{
+    color: aqua;
+    font-size: 30px;
+    text-align: left;
+}
+
+p{
+    text-align: justify;
+    font-size: 20px;
+}
+
+#főtábla{
+    width: 800px;
+    border: 1px solid white;
+    box-shadow: black;
+    background-color: bisque;
+}
+td{
+    width: 800px;
+}
+a{
+    text-align: center;
+    font-size: 25px;
+}
+#csapat{
+    width: 800px;
+    align-items: center;
+}
+#képkettő{
+    width: 800px;
+    height: 1000px;
+}
+hr{
+    border: 1px solid white;
+    
+}
+#első{
+    width: 500px;
+}
